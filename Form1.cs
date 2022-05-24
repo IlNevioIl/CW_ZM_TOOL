@@ -27,7 +27,7 @@ namespace CW_Beach
 
         public IntPtr PlayerCompPtr, PlayerPedPtr, ZMGlobalBase, ZMBotBase, ZMBotListBase;
 
-        public string currentVersion = "Change adress if CW is not 1.25.3";
+        public string currentVersion = "Change adress if CW is not 1.25.4";
 
         public int gamePID = 0;
         public IntPtr hProc;

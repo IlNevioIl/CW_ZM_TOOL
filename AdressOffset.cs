@@ -4,11 +4,11 @@ namespace CW_Beach
 {
     internal class AdressOffset
     {
-        //-------------------------------------------------Adress update 1.25.3.11521158--------------------------------------------
+        //-------------------------------------------------Adress update 1.25.4-----------------------------------------------------
 
-        public static IntPtr PlayerBase = (IntPtr)0x10F75458; //G_Client
-        public static IntPtr CMDBufferBase = (IntPtr)0xDD0F8F0;
-        public static IntPtr XPScaleBase = (IntPtr)0x10FA5448;
+        public static IntPtr PlayerBase = (IntPtr)0x10512B18; //G_Client
+        public static IntPtr CMDBufferBase = (IntPtr)0xD2B48F0;
+        public static IntPtr XPScaleBase = (IntPtr)0x10542B08;
 
         //--------------------------------------------------------Offset------------------------------------------------------------
         // If after change adress your game crash it's because offset change probably
