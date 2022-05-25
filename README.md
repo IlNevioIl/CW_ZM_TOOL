@@ -2,7 +2,7 @@
 
 This is a fork from https://github.com/TheGeogeo/CW_ZM_Trainer
 
-I just update this.
+I just update this. Leave a Star so you find this if a new update comes out.
 
 # Showcase
 ![alt text](https://github.com/IlNevioIl/CW_ZM_TOOL/blob/master/trainer.PNG)
